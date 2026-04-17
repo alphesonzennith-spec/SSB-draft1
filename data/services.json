@@ -1,0 +1,32 @@
+[
+  {
+    "id": "srv-wetwork",
+    "title": "Wet Work & Structural",
+    "description": "Structural and wet work services for additions, alterations, and building improvement works.",
+    "details": "We carry out a range of wet work and structural works, including masonry, concreting, and foundation-related support. Our team works closely with project requirements to ensure the job is completed properly, safely, and in line with the intended specifications."
+  },
+  {
+    "id": "srv-finishing",
+    "title": "Finishing Works",
+    "description": "Interior and finishing works to support a clean, functional, and well-completed space.",
+    "details": "We provide finishing works such as surface treatments, carpentry coordination, tiling, and other final touches that help bring a project together. Our focus is on practical workmanship, consistency, and delivering an end result that fits the overall design and use of the space."
+  },
+  {
+    "id": "srv-roofing",
+    "title": "Roofing Works",
+    "description": "Roofing installation, repair, and related works for different project requirements.",
+    "details": "We provide roofing works as part of new build, upgrading, and improvement projects. This includes installation, replacement, repair, and supporting works, carried out with attention to durability, weather protection, and project suitability."
+  },
+  {
+    "id": "srv-solar",
+    "title": "Solar Panel Installation",
+    "description": "Solar panel installation works to support energy-saving and sustainability goals.",
+    "details": "We support solar panel installation as part of building improvement and enhancement works. This includes coordination of installation requirements and on-site implementation to help clients adopt practical energy solutions suited to their property or facility."
+  },
+  {
+    "id": "srv-me",
+    "title": "M&E Coordination",
+    "description": "Coordination with specialist Mechanical & Electrical teams for project delivery.",
+    "details": "While our core strength is structural and architectural work, we coordinate reliably with specialized M&E engineers. This helps to integrate necessary lighting, ventilation, and electrical systems practically and safely within the building's design."
+  }
+]

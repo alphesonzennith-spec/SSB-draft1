@@ -1,0 +1,62 @@
+[
+  {
+    "id": "res-01",
+    "title": "A&A Exterior Upgrades",
+    "category": "Residential",
+    "imageUrl": "/images/projects/WhatsApp Image 2026-04-15 at 1.39.46 PM (2).jpeg"
+  },
+  {
+    "id": "res-02",
+    "title": "Architectural Timber Integration",
+    "category": "Residential",
+    "imageUrl": "/images/projects/WhatsApp Image 2026-04-15 at 1.39.46 PM (1).jpeg"
+  },
+  {
+    "id": "com-01",
+    "title": "Corporate Office Remodeling",
+    "category": "Commercial",
+    "imageUrl": "/images/projects/WhatsApp Image 2026-04-15 at 1.39.47 PM (2).jpeg"
+  },
+  {
+    "id": "com-02",
+    "title": "Premium Retail Alteration",
+    "category": "Commercial",
+    "imageUrl": "/images/projects/WhatsApp Image 2026-04-15 at 1.39.44 PM (3).jpeg"
+  },
+  {
+    "id": "ind-01",
+    "title": "Industrial Structural Enhancement",
+    "category": "Industrial",
+    "imageUrl": "/images/projects/WhatsApp Image 2026-04-15 at 1.39.48 PM (2).jpeg"
+  },
+  {
+    "id": "ind-02",
+    "title": "Warehouse Modernization",
+    "category": "Industrial",
+    "imageUrl": "/images/projects/WhatsApp Image 2026-04-15 at 1.39.48 PM.jpeg"
+  },
+  {
+    "id": "roof-01",
+    "title": "Pitch Roof Construction",
+    "category": "Roofing",
+    "imageUrl": "/images/projects/WhatsApp Image 2026-04-15 at 1.39.47 PM.jpeg"
+  },
+  {
+    "id": "wet-01",
+    "title": "Foundation Reinforcement",
+    "category": "Wet Work",
+    "imageUrl": "/images/projects/WhatsApp Image 2026-04-15 at 1.39.45 PM.jpeg"
+  },
+  {
+    "id": "fin-01",
+    "title": "Luxury Marble Finishing",
+    "category": "Finishing",
+    "imageUrl": "/images/projects/WhatsApp Image 2026-04-15 at 1.39.45 PM (1).jpeg"
+  },
+  {
+    "id": "fin-02",
+    "title": "Premium Tiling",
+    "category": "Finishing",
+    "imageUrl": "/images/projects/WhatsApp Image 2026-04-15 at 1.39.44 PM.jpeg"
+  }
+]

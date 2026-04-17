@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-navy: #0F172A;
+  --color-charcoal: #121212;
+  --color-taupe: #8B857D;
+  --color-stone: #A3A199;
+  --color-beige: #CEC8C1;
+  --color-smoky: #1E1E1E;
+  --color-gold: #C0A062;
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+:root {
+  --background: #121212; /* Charcoal base */
+  --foreground: #CEC8C1; /* Muted beige text */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0f1d; /* Very deep navy/black */
+    --foreground: #CEC8C1;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Custom Utilities for aesthetic */
+.glass-panel {
+  background: rgba(30, 30, 30, 0.6);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(192, 160, 98, 0.15); /* Subtle gold border */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #FAFAF9; /* Sparingly use off-white for headers for contrast */
+}
