@@ -1,62 +1,93 @@
 [
   {
-    "id": "res-01",
-    "title": "A&A Exterior Upgrades",
-    "category": "Residential",
-    "imageUrl": "/images/projects/WhatsApp Image 2026-04-15 at 1.39.46 PM (2).jpeg"
+    "id": "interior-finishing-works",
+    "category": "Interior Finishing Works",
+    "description": "High-quality finishing works with clean detailing, professional presentation, and practical layout planning suitable for a range of environments.",
+    "images": [
+      "/images/projects/interior-finishing-works/interior-finishing-works-1.jpeg",
+      "/images/projects/interior-finishing-works/interior-finishing-works-2.jpeg",
+      "/images/projects/interior-finishing-works/interior-finishing-works-3.jpeg",
+      "/images/projects/interior-finishing-works/interior-finishing-works-4.jpeg",
+      "/images/projects/interior-finishing-works/interior-finishing-works-5.jpeg",
+      "/images/projects/interior-finishing-works/interior-finishing-works-6.jpeg",
+      "/images/projects/interior-finishing-works/interior-finishing-works-7.jpeg",
+      "/images/projects/interior-finishing-works/interior-finishing-works-8.jpeg",
+      "/images/projects/interior-finishing-works/interior-finishing-works-9.jpeg",
+      "/images/projects/interior-finishing-works/interior-finishing-works-10.jpeg",
+      "/images/projects/interior-finishing-works/interior-finishing-works-11.jpeg",
+      "/images/projects/interior-finishing-works/interior-finishing-works-12.jpeg"
+    ]
   },
   {
-    "id": "res-02",
-    "title": "Architectural Timber Integration",
-    "category": "Residential",
-    "imageUrl": "/images/projects/WhatsApp Image 2026-04-15 at 1.39.46 PM (1).jpeg"
+    "id": "builders-works",
+    "category": "Builders Works",
+    "description": "General builders works carried out with careful coordination, reliable execution, and steady workmanship across varying project scales.",
+    "images": [
+      "/images/projects/builders-works/builders-works-1.jpeg",
+      "/images/projects/builders-works/builders-works-2.jpeg",
+      "/images/projects/builders-works/builders-works-3.jpeg",
+      "/images/projects/builders-works/builders-works-4.jpeg",
+      "/images/projects/builders-works/builders-works-5.jpeg"
+    ]
   },
   {
-    "id": "com-01",
-    "title": "Corporate Office Remodeling",
-    "category": "Commercial",
-    "imageUrl": "/images/projects/WhatsApp Image 2026-04-15 at 1.39.47 PM (2).jpeg"
+    "id": "cage-ladder-works",
+    "category": "Cage Ladder Works",
+    "description": "Fabrication and installation of functional cage ladder systems aimed at providing safe, stable, and practical access for industrial or commercial sites.",
+    "images": [
+      "/images/projects/cage-ladder-works/cage-ladder-works-1.jpeg",
+      "/images/projects/cage-ladder-works/cage-ladder-works-2.jpeg",
+      "/images/projects/cage-ladder-works/cage-ladder-works-3.jpeg",
+      "/images/projects/cage-ladder-works/cage-ladder-works-4.jpeg",
+      "/images/projects/cage-ladder-works/cage-ladder-works-5.jpeg"
+    ]
   },
   {
-    "id": "com-02",
-    "title": "Premium Retail Alteration",
-    "category": "Commercial",
-    "imageUrl": "/images/projects/WhatsApp Image 2026-04-15 at 1.39.44 PM (3).jpeg"
+    "id": "roofing-works",
+    "category": "Roofing Works",
+    "description": "Dependable roofing installations focused on correct weather protection, long-term durability, and proper alignment for new builds and upgrades.",
+    "images": [
+      "/images/projects/roofing-works/roofing-works-1.jpeg",
+      "/images/projects/roofing-works/roofing-works-2.jpeg",
+      "/images/projects/roofing-works/roofing-works-3.jpeg",
+      "/images/projects/roofing-works/roofing-works-4.jpeg",
+      "/images/projects/roofing-works/roofing-works-5.jpeg",
+      "/images/projects/roofing-works/roofing-works-6.jpeg",
+      "/images/projects/roofing-works/roofing-works-7.jpeg",
+      "/images/projects/roofing-works/roofing-works-8.jpeg",
+      "/images/projects/roofing-works/roofing-works-9.jpeg"
+    ]
   },
   {
-    "id": "ind-01",
-    "title": "Industrial Structural Enhancement",
-    "category": "Industrial",
-    "imageUrl": "/images/projects/WhatsApp Image 2026-04-15 at 1.39.48 PM (2).jpeg"
+    "id": "self-storage",
+    "category": "Self Storage Partition and Doors",
+    "description": "Partitioning and door works tailored for self-storage spaces to ensure a reliable structure, clean finishing, and practical layout coordination.",
+    "images": [
+      "/images/projects/self-storage-partition-and-doors/self-storage-partition-and-doors-1.jpeg",
+      "/images/projects/self-storage-partition-and-doors/self-storage-partition-and-doors-2.jpeg",
+      "/images/projects/self-storage-partition-and-doors/self-storage-partition-and-doors-3.jpeg",
+      "/images/projects/self-storage-partition-and-doors/self-storage-partition-and-doors-4.jpeg",
+      "/images/projects/self-storage-partition-and-doors/self-storage-partition-and-doors-5.jpeg"
+    ]
   },
   {
-    "id": "ind-02",
-    "title": "Warehouse Modernization",
-    "category": "Industrial",
-    "imageUrl": "/images/projects/WhatsApp Image 2026-04-15 at 1.39.48 PM.jpeg"
-  },
-  {
-    "id": "roof-01",
-    "title": "Pitch Roof Construction",
-    "category": "Roofing",
-    "imageUrl": "/images/projects/WhatsApp Image 2026-04-15 at 1.39.47 PM.jpeg"
-  },
-  {
-    "id": "wet-01",
-    "title": "Foundation Reinforcement",
-    "category": "Wet Work",
-    "imageUrl": "/images/projects/WhatsApp Image 2026-04-15 at 1.39.45 PM.jpeg"
-  },
-  {
-    "id": "fin-01",
-    "title": "Luxury Marble Finishing",
-    "category": "Finishing",
-    "imageUrl": "/images/projects/WhatsApp Image 2026-04-15 at 1.39.45 PM (1).jpeg"
-  },
-  {
-    "id": "fin-02",
-    "title": "Premium Tiling",
-    "category": "Finishing",
-    "imageUrl": "/images/projects/WhatsApp Image 2026-04-15 at 1.39.44 PM.jpeg"
+    "id": "solar-panel",
+    "category": "Solar Panel and Related Works",
+    "description": "Thoughtful solar panel support structures and installations handled efficiently to meet modern building improvement and sustainability requirements.",
+    "images": [
+      "/images/projects/solar-panel-and-related-works/solar-panel-and-related-works-1.jpeg",
+      "/images/projects/solar-panel-and-related-works/solar-panel-and-related-works-2.jpeg",
+      "/images/projects/solar-panel-and-related-works/solar-panel-and-related-works-3.jpeg",
+      "/images/projects/solar-panel-and-related-works/solar-panel-and-related-works-4.jpeg",
+      "/images/projects/solar-panel-and-related-works/solar-panel-and-related-works-5.jpeg",
+      "/images/projects/solar-panel-and-related-works/solar-panel-and-related-works-6.jpeg",
+      "/images/projects/solar-panel-and-related-works/solar-panel-and-related-works-7.jpeg",
+      "/images/projects/solar-panel-and-related-works/solar-panel-and-related-works-8.jpeg",
+      "/images/projects/solar-panel-and-related-works/solar-panel-and-related-works-9.jpeg",
+      "/images/projects/solar-panel-and-related-works/solar-panel-and-related-works-10.jpeg",
+      "/images/projects/solar-panel-and-related-works/solar-panel-and-related-works-11.jpeg",
+      "/images/projects/solar-panel-and-related-works/solar-panel-and-related-works-12.jpeg",
+      "/images/projects/solar-panel-and-related-works/solar-panel-and-related-works-13.jpeg"
+    ]
   }
 ]

@@ -102,7 +102,10 @@ export default function Home() {
               <span className="text-gold font-medium tracking-[0.2em] text-xs uppercase mb-4 block">
                 Featured Work
               </span>
-              <h2 className="text-3xl md:text-5xl font-semibold tracking-tight text-white">Uncompromising Quality</h2>
+              <h2 className="text-3xl md:text-5xl font-semibold tracking-tight text-white">
+                Uncompromising Quality. <br className="hidden md:block" />
+                <span className="font-serif italic text-stone">Engineering Elegance.</span>
+              </h2>
             </div>
             <Link href="/projects" className="text-xs font-bold tracking-[0.2em] text-white hover:text-gold transition-colors uppercase group flex items-center gap-2">
               Explore All <span className="group-hover:translate-x-1 transition-transform">→</span>
