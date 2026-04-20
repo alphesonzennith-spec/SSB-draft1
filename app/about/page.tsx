@@ -26,10 +26,10 @@ export default function About() {
               <h2 className="text-sm font-bold tracking-widest text-stone mb-6 uppercase">Executive Overview</h2>
               <div className="text-lg text-zinc-300 font-light leading-relaxed space-y-6">
                 <p>
-                  SSB Structural Engineering Pte Ltd is a Singapore-based specialist firm dedicated to the intersection of structural integrity and architectural refinement. We specialize in Addition & Alteration (A&A) and Repair & Redecoration (R&R) works across the residential, commercial, and industrial sectors.
+                  SSB Structural Engineering Pte Ltd is a Singapore-based specialist firm dedicated to the intersection of structural integrity and architectural refinement. We specialize in high-end Addition & Alteration (A&A) and Repair & Redecoration (R&R) works across the residential, commercial, and industrial sectors.
                 </p>
                 <p>
-                  Our philosophy, "Engineering Elegance," reflects our commitment to delivering robust structural solutions that do not compromise on aesthetic presentation. From complex industrial enhancements to residential finishes, SSB provides the technical support required for modern urban development.
+                  Our philosophy, "Engineering Elegance," reflects our commitment to delivering robust structural solutions that do not compromise on aesthetic sophistication. From complex industrial enhancements to luxury residential finishes, SSB provides the technical precision required for modern urban development.
                 </p>
               </div>
             </FadeIn>
@@ -57,17 +57,41 @@ export default function About() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-16">
           <FadeIn delay={100}>
             <h2 className="text-sm font-bold tracking-widest text-stone mb-8 uppercase">Core Competencies</h2>
-            <div className="grid gap-4">
-              {[
-                "Residential Excellence",
-                "Commercial & Retail Transformation",
-                "Industrial Structural Enhancement"
-              ].map((item, idx) => (
-                <div key={idx} className="flex items-center gap-4 bg-[#181818] p-5 rounded-sm border border-transparent hover:border-stone/30 transition-colors">
-                  <div className="w-1.5 h-1.5 rounded-full bg-stone shrink-0"></div>
-                  <span className="text-zinc-200 font-light">{item}</span>
-                </div>
-              ))}
+            <div className="space-y-6">
+              
+              <div className="bg-[#181818] p-6 rounded-sm border border-white/5 hover:border-stone/30 transition-colors">
+                <h3 className="text-white font-semibold mb-3 tracking-wide">Residential Excellence</h3>
+                <p className="text-zinc-400 font-light text-sm mb-4 leading-relaxed">
+                  We transform private estates through strategic upgrades that increase both functional value and curb appeal.
+                </p>
+                <ul className="space-y-3 text-sm text-zinc-300 font-light ml-4 border-l border-stone/30 pl-4">
+                  <li><strong className="text-white font-medium">A&A Exterior Upgrades:</strong> Comprehensive structural modifications and facade enhancements.</li>
+                  <li><strong className="text-white font-medium">Architectural Timber Integration:</strong> Sophisticated wood-based structural and decorative elements.</li>
+                </ul>
+              </div>
+
+              <div className="bg-[#181818] p-6 rounded-sm border border-white/5 hover:border-stone/30 transition-colors">
+                <h3 className="text-white font-semibold mb-3 tracking-wide">Commercial & Retail Transformation</h3>
+                <p className="text-zinc-400 font-light text-sm mb-4 leading-relaxed">
+                  Focused on minimizing downtime while maximizing the utility and prestige of professional environments.
+                </p>
+                <ul className="space-y-3 text-sm text-zinc-300 font-light ml-4 border-l border-stone/30 pl-4">
+                  <li><strong className="text-white font-medium">Corporate Office Remodelling:</strong> Structural reconfiguring for modern workplace workflows.</li>
+                  <li><strong className="text-white font-medium">Premium Retail Alteration:</strong> High-spec structural adjustments for luxury retail storefronts and interiors.</li>
+                </ul>
+              </div>
+
+              <div className="bg-[#181818] p-6 rounded-sm border border-white/5 hover:border-stone/30 transition-colors">
+                <h3 className="text-white font-semibold mb-3 tracking-wide">Industrial Structural Enhancement</h3>
+                <p className="text-zinc-400 font-light text-sm mb-4 leading-relaxed">
+                  Heavy-duty engineering solutions designed for longevity and operational safety.
+                </p>
+                <ul className="space-y-3 text-sm text-zinc-300 font-light ml-4 border-l border-stone/30 pl-4">
+                  <li><strong className="text-white font-medium">Warehouse Modernization:</strong> Floor loading enhancements and structural reinforcements.</li>
+                  <li><strong className="text-white font-medium">Industrial Strengthening:</strong> Specialized structural support for machinery and logistics infrastructure.</li>
+                </ul>
+              </div>
+
             </div>
           </FadeIn>
 

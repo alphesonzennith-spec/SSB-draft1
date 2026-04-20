@@ -30,9 +30,14 @@ export default function Home() {
               Execution.<br />
               <span className="text-white font-serif italic text-6xl md:text-8xl">Delivery.</span>
             </h1>
-            <p className="text-lg md:text-xl text-zinc-100 mb-10 max-w-2xl leading-relaxed drop-shadow-md font-light">
-              SSB Structural Engineering provides dependable Addition & Alteration (A&A) and improvement works. We focus on practical solutions, safe execution, and quality workmanship for industrial, commercial, and residential projects.
-            </p>
+            <div className="space-y-4 mb-10 max-w-2xl">
+              <p className="text-lg md:text-xl text-zinc-100 leading-relaxed drop-shadow-md font-light">
+                SSB Structural Engineering Pte Ltd is a Singapore-based specialist firm dedicated to the intersection of structural integrity and architectural refinement. We specialize in high-end Addition & Alteration (A&A) and Repair & Redecoration (R&R) works across the residential, commercial, and industrial sectors.
+              </p>
+              <p className="text-lg md:text-xl text-zinc-100 leading-relaxed drop-shadow-md font-light">
+                Our philosophy, "Engineering Elegance," reflects our commitment to delivering robust structural solutions that do not compromise on aesthetic sophistication. From complex industrial enhancements to luxury residential finishes, SSB provides the technical precision required for modern urban development.
+              </p>
+            </div>
             <div className="flex flex-col sm:flex-row gap-5">
               <Link
                 href="/projects"
