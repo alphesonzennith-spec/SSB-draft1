@@ -9,7 +9,7 @@ export default function Home() {
         {/* Background Image */}
         <div className="absolute inset-0 z-0">
           <Image
-            src="/images/projects/WhatsApp Image 2026-04-15 at 1.39.46 PM (2).jpeg"
+            src="/images/projects/builders-works/builders-works-1.jpeg"
             alt="Premium Residential Exterior"
             fill
             className="object-cover object-center scale-105 animate-[slow-zoom_20s_ease-in-out_infinite_alternate]"
@@ -115,7 +115,7 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="group overflow-hidden rounded-sm relative aspect-[3/4] bg-black">
               <Image 
-                src="/images/projects/WhatsApp Image 2026-04-15 at 1.39.45 PM (1).jpeg" 
+                src="/images/projects/interior-finishing-works/interior-finishing-works-8.jpeg" 
                 alt="Luxury Interior Wood and Marble" 
                 fill 
                 className="object-cover opacity-80 group-hover:opacity-100 group-hover:scale-105 transition-all duration-700 ease-in-out"
@@ -129,7 +129,7 @@ export default function Home() {
 
             <div className="group overflow-hidden rounded-sm relative aspect-[3/4] bg-black">
               <Image 
-                src="/images/projects/WhatsApp Image 2026-04-15 at 1.39.44 PM.jpeg" 
+                src="/images/projects/builders-works/builders-works-2.jpeg" 
                 alt="Premium Bathroom Tiling" 
                 fill 
                 className="object-cover opacity-80 group-hover:opacity-100 group-hover:scale-105 transition-all duration-700 ease-in-out"
@@ -143,7 +143,7 @@ export default function Home() {
 
             <div className="group overflow-hidden rounded-sm relative aspect-[3/4] bg-black md:hidden lg:block">
               <Image 
-                src="/images/projects/WhatsApp Image 2026-04-15 at 1.39.48 PM (2).jpeg" 
+                src="/images/projects/interior-finishing-works/interior-finishing-works-9.jpeg" 
                 alt="Architectural Details" 
                 fill 
                 className="object-cover opacity-80 group-hover:opacity-100 group-hover:scale-105 transition-all duration-700 ease-in-out"
