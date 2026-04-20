@@ -1,3 +1,4 @@
+import Link from "next/link";
 import Slideshow from "@/components/ui/Slideshow";
 import projectsData from "@/data/projects.json";
 
@@ -61,6 +62,21 @@ export default function Projects() {
             );
           })}
         </div>
+
+        {/* CTA Banner */}
+        <div className="mt-32 border-t border-white/10 pt-16 flex flex-col items-center text-center">
+          <h2 className="text-2xl md:text-3xl font-semibold text-white mb-6">Ready to discuss your project?</h2>
+          <p className="text-zinc-400 max-w-lg mb-10 font-light leading-relaxed">
+            Reach out to our engineering team to explore practical solutions and technical support for your structural needs.
+          </p>
+          <Link 
+            href="/contact" 
+            className="px-8 py-4 bg-gold text-[#0a0a0a] font-bold text-sm tracking-widest uppercase hover:bg-white hover:-translate-y-1 hover:shadow-lg transition-all duration-300 rounded-sm"
+          >
+            Enquire About Similar Works
+          </Link>
+        </div>
+
       </div>
     </div>
   );
