@@ -51,7 +51,7 @@ export default function About() {
           </div>
         </div>
 
-        <FadeIn delay={100} className="w-full h-px bg-stone/20 my-24"></FadeIn>
+        <div className="w-full h-px bg-stone/20 my-24"></div>
 
         {/* Competencies Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-16">
@@ -89,7 +89,7 @@ export default function About() {
           </FadeIn>
         </div>
 
-        <FadeIn delay={100} className="w-full h-px bg-stone/20 my-24"></FadeIn>
+        <div className="w-full h-px bg-stone/20 my-24"></div>
 
         {/* Commitment to Quality Sections */}
         <FadeIn delay={100}>
