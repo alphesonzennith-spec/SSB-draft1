@@ -8,9 +8,9 @@ export default function Projects() {
     "Interior Finishing Works",
     "Builders Works",
     "Cage Ladder Works",
+    "Solar Panel and Related Works",
     "Roofing Works",
-    "Self Storage Partition and Doors",
-    "Solar Panel and Related Works"
+    "Self Storage Partition and Doors"
   ];
 
   // Sort and filter the data strictly against the requested category order
