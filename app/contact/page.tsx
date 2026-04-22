@@ -54,7 +54,7 @@ export default function Contact() {
               <div>
                 <h4 className="text-xs font-bold tracking-widest text-stone mb-2 uppercase">Head Office</h4>
                 <p className="text-zinc-300 font-light">
-                  8B Admiralty Street #02-14 S(757 440)
+                  8B Admiralty Street #02-14 S(757440)
                 </p>
               </div>
               <div>

@@ -26,7 +26,7 @@ export default function About() {
               <h2 className="text-sm font-bold tracking-widest text-stone mb-6 uppercase">Executive Overview</h2>
               <div className="text-lg text-zinc-300 font-light leading-relaxed space-y-6">
                 <p>
-                  SSB Structural Engineering Pte Ltd is a Singapore-based specialist firm dedicated to the intersection of structural integrity and architectural refinement. We specialize in high-end Addition & Alteration (A&A) and Repair & Redecoration (R&R) works across the residential, commercial, and industrial sectors.
+                  SSB Structural Engineering Pte. Ltd. is a Singapore-based specialist firm dedicated to the intersection of structural integrity and architectural refinement. We specialize in high-end Addition & Alteration (A&A) and Repair & Redecoration (R&R) works across the residential, commercial, and industrial sectors.
                 </p>
                 <p>
                   Our philosophy, "Engineering Elegance," reflects our commitment to delivering robust structural solutions that do not compromise on aesthetic sophistication. From complex industrial enhancements to luxury residential finishes, SSB provides the technical precision required for modern urban development.

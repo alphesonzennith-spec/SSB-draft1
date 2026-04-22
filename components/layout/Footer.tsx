@@ -8,7 +8,7 @@ export default function Footer() {
           
           {/* Main Brand Column */}
           <div className="md:col-span-5 pr-4 md:pr-12">
-            <h3 className="text-2xl font-semibold mb-2 tracking-tight text-[#FAFAF9]">SSB Structural</h3>
+            <h3 className="text-2xl font-semibold mb-2 tracking-tight text-[#FAFAF9]">SSB Structural Engineering Pte. Ltd.</h3>
             <p className="text-stone font-serif italic mb-6 text-lg">Engineering Elegance.</p>
             <p className="text-zinc-400 max-w-sm leading-relaxed mb-6 font-light text-sm">
               Specialist firm dedicated to practical structural solutions and architectural refinement across residential, commercial, and industrial sectors.
@@ -49,9 +49,8 @@ export default function Footer() {
               <div>
                 <span className="text-[10px] text-zinc-500 uppercase tracking-widest mb-1.5 block font-semibold border-b border-white/5 pb-1 w-max">Registered Office</span>
                 <p className="text-sm text-zinc-300 font-light leading-relaxed">
-                  Blk 3023 Ubi Road 3<br />
-                  #03-12 Ubiplex 1<br />
-                  Singapore 408663
+                  8B Admiralty Street<br />
+                  #02-14 S(757440)
                 </p>
               </div>
 
@@ -61,7 +60,7 @@ export default function Footer() {
 
         {/* Polished Brand Ending */}
         <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center text-xs text-zinc-500 font-light">
-          <p>&copy; {new Date().getFullYear()} SSB Structural Engineering Pte Ltd. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} SSB Structural Engineering Pte. Ltd. All rights reserved.</p>
           <p className="mt-4 md:mt-0 tracking-widest text-zinc-400 font-medium">Designed and developed by AZ</p>
         </div>
       </div>

@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SSB Structural Engineering Pte Ltd",
+  title: "SSB Structural Engineering Pte. Ltd.",
   description: "Premium A&A and R&R specialists serving industrial, commercial, and residential sectors in Singapore.",
 };
 

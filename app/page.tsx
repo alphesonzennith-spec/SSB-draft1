@@ -30,7 +30,7 @@ export default function Home() {
             </h1>
             <div className="space-y-4 mb-10 max-w-2xl">
               <p className="text-lg md:text-xl text-zinc-100 leading-relaxed drop-shadow-md font-light">
-                SSB Structural Engineering Pte Ltd is a Singapore-based specialist firm dedicated to the intersection of structural integrity and architectural refinement. We specialize in high-end Addition & Alteration (A&A) and Repair & Redecoration (R&R) works across the residential, commercial, and industrial sectors.
+                SSB Structural Engineering Pte. Ltd. is a Singapore-based specialist firm dedicated to the intersection of structural integrity and architectural refinement. We specialize in high-end Addition & Alteration (A&A) and Repair & Redecoration (R&R) works across the residential, commercial, and industrial sectors.
               </p>
               <p className="text-lg md:text-xl text-zinc-100 leading-relaxed drop-shadow-md font-light">
                 Our philosophy, "Engineering Elegance," reflects our commitment to delivering robust structural solutions that do not compromise on aesthetic sophistication. From complex industrial enhancements to luxury residential finishes, SSB provides the technical precision required for modern urban development.
@@ -130,21 +130,7 @@ export default function Home() {
             </h2>
           </FadeIn>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-16">
-            <FadeIn delay={100} className="group overflow-hidden rounded-sm relative aspect-[3/4] bg-black">
-              <Image 
-                src="/images/projects/interior-finishing-works/interior-finishing-works-8.jpeg" 
-                alt="Luxury Interior Wood and Marble" 
-                fill 
-                sizes="(max-width: 768px) 100vw, 33vw"
-                className="object-cover opacity-80 group-hover:opacity-100 group-hover:scale-105 transition-all duration-1000 ease-in-out"
-              />
-              <div className="absolute inset-0 bg-gradient-to-t from-[#0a0a0a] via-[#0a0a0a]/50 to-transparent" />
-              <div className="absolute bottom-0 left-0 p-10 w-full transform translate-y-4 group-hover:translate-y-0 transition-transform duration-500">
-                <span className="text-gold border border-gold/40 px-3 py-1 text-[10px] font-bold tracking-[0.2em] uppercase mb-4 inline-block backdrop-blur-md">Residential</span>
-                <h3 className="text-2xl font-semibold text-white drop-shadow-md">Luxury Interior Finishing</h3>
-              </div>
-            </FadeIn>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl mx-auto mb-16">
 
             <FadeIn delay={200} className="group overflow-hidden rounded-sm relative aspect-[3/4] bg-black">
               <Image 
@@ -161,7 +147,7 @@ export default function Home() {
               </div>
             </FadeIn>
 
-            <FadeIn delay={300} className="group overflow-hidden rounded-sm relative aspect-[3/4] bg-black md:hidden lg:block">
+            <FadeIn delay={200} className="group overflow-hidden rounded-sm relative aspect-[3/4] bg-black">
               <Image 
                 src="/images/projects/interior-finishing-works/interior-finishing-works-9.jpeg" 
                 alt="Architectural Details" 
