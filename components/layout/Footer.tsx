@@ -35,23 +35,35 @@ export default function Footer() {
             <h4 className="text-xs font-bold tracking-widest text-stone mb-6 uppercase">Get In Touch</h4>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-8">
               
-              <div className="space-y-6">
+              {/* Service Contacts */}
+              <div className="space-y-5">
+                <div>
+                  <span className="text-[10px] text-zinc-500 uppercase tracking-widest mb-1.5 block font-semibold border-b border-white/5 pb-1 w-max">Interior Finishing</span>
+                  <span className="text-sm text-zinc-300">Mr Leo. <a href="tel:+6591191423" className="hover:text-white transition-colors">9119 1423</a></span>
+                </div>
+                <div>
+                  <span className="text-[10px] text-zinc-500 uppercase tracking-widest mb-1.5 block font-semibold border-b border-white/5 pb-1 w-max">Roofing & Solar</span>
+                  <span className="text-sm text-zinc-300">Mr Teoh. <a href="tel:+6597301133" className="hover:text-white transition-colors">9730 1133</a></span>
+                </div>
+                <div>
+                  <span className="text-[10px] text-zinc-500 uppercase tracking-widest mb-1.5 block font-semibold border-b border-white/5 pb-1 w-max">Storage & Builders Works</span>
+                  <span className="text-sm text-zinc-300">Mr Aw. <a href="tel:+6591007619" className="hover:text-white transition-colors">9100 7619</a></span>
+                </div>
+              </div>
+
+              {/* Office & Email */}
+              <div className="space-y-5">
                 <div>
                   <span className="text-[10px] text-zinc-500 uppercase tracking-widest mb-1.5 block font-semibold border-b border-white/5 pb-1 w-max">Corporate Email</span>
                   <a href="mailto:enquiry@ssbstruc.com" className="text-sm text-zinc-300 hover:text-white transition-colors">enquiry@ssbstruc.com</a>
                 </div>
                 <div>
-                  <span className="text-[10px] text-zinc-500 uppercase tracking-widest mb-1.5 block font-semibold border-b border-white/5 pb-1 w-max">Direct Telephone</span>
-                  <span className="text-sm text-zinc-300 hover:text-white transition-colors">+65 9100 7619</span>
+                  <span className="text-[10px] text-zinc-500 uppercase tracking-widest mb-1.5 block font-semibold border-b border-white/5 pb-1 w-max">Registered Office</span>
+                  <p className="text-sm text-zinc-300 font-light leading-relaxed">
+                    8B Admiralty Street<br />
+                    #02-14 S(757440)
+                  </p>
                 </div>
-              </div>
-
-              <div>
-                <span className="text-[10px] text-zinc-500 uppercase tracking-widest mb-1.5 block font-semibold border-b border-white/5 pb-1 w-max">Registered Office</span>
-                <p className="text-sm text-zinc-300 font-light leading-relaxed">
-                  8B Admiralty Street<br />
-                  #02-14 S(757440)
-                </p>
               </div>
 
             </div>
